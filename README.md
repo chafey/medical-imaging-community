@@ -10,20 +10,12 @@ How: Sign up [here](https://us02web.zoom.us/meeting/register/tZApfuiqrz8pGtGxKTU
 
 Format: Unstructured open discussion - attendees are free to ask questions and discuss topics related to medical imaging
 
-## FAQ
+## More Info
 
-Q: What are the goals of this group?
-
-A: Knowledge sharing, making connections, advancing the industry
-
-
-Q: Who can attend?
-
-A: Anyone
+* [FAQ](FAQ.md)
+* [Members](MEMBERS.md)
+* [Meeting Notes](NOTES.md)
 
 
-## Members and Interests
 
-Feel free to add yourself via a pull request!
 
-* [Chris Hafey](https://www.linkedin.com/in/chafey/) - DICOM, Image Compression, Cloud, Fast Image Viewing, Web Apps
