@@ -9,3 +9,4 @@ Feel free to add yourself via a pull request!
 * [Akshay Goel](https://www.linkedin.com/in/akshay-goel-md/) - Diagnostic Radiologist, Machine Learning Scientist, and Builder of Scalable Annotation Pipelines
 * [Steven Borg](https://www.linkedin.com/in/steven-borg/) - Director, Medical Imaging, Microsoft - build Medical Imaging services for Azure (DICOM/ML/Big Data)
 * [Elliot Silver](https://www.linkedin.com/in/elliotlsilver) - DICOM, HL7, and IHE standards and interoperability
+* [Jason Hostetter](https://www.linkedin.com/in/jasonhostetter/) - Web developer, Diagnostic Radiologist
