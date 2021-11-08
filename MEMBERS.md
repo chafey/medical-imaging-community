@@ -8,3 +8,4 @@ Feel free to add yourself via a pull request!
 * [Simon Rascovsky](https://www.linkedin.com/in/simonmd/) - Recovering Radiologist, eternal beta-tester, imaging informatics and data analytics enthusiast.
 * [Akshay Goel](https://www.linkedin.com/in/akshay-goel-md/) - Diagnostic Radiologist, Machine Learning Scientist, and Builder of Scalable Annotation Pipelines
 * [Steven Borg](https://www.linkedin.com/in/steven-borg/)- Director, Medical Imaging, Microsoft - build Medical Imaging services for Azure (DICOM/ML/Big Data)
+* [Elliot Silver](https://www.linkedin.com/in/elliotlsilver) - DICOM, HL7, and IHE standards and interoperability
