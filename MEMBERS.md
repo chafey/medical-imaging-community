@@ -7,3 +7,4 @@ Feel free to add yourself via a pull request!
 * [Steve Pieper](https://www.linkedin.com/in/steve-pieper-885bba5/) - Medical imaging software platforms and experiments.  Academic and commercial clinical translations.  Long-time collaborator at [the SPL](https://spl.harvard.edu/people/steve-pieper) working on [3D Slicer](https://slicer.org).
 * [Simon Rascovsky](https://www.linkedin.com/in/simonmd/) - Recovering Radiologist, eternal beta-tester, imaging informatics and data analytics enthusiast.
 * [Akshay Goel](https://www.linkedin.com/in/akshay-goel-md/) - Diagnostic Radiologist, Machine Learning Scientist, and Builder of Scalable Annotation Pipelines
+* [Steven Borg] (https://www.linkedin.com/in/steven-borg/)- Director, Medical Imaging, Microsoft - build Medical Imaging services for Azure (DICOM/ML/Big Data)
