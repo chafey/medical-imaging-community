@@ -10,3 +10,4 @@ Feel free to add yourself via a pull request!
 * [Steven Borg](https://www.linkedin.com/in/steven-borg/) - Director, Medical Imaging, Microsoft - build Medical Imaging services for Azure (DICOM/ML/Big Data)
 * [Elliot Silver](https://www.linkedin.com/in/elliotlsilver) - DICOM, HL7, and IHE standards and interoperability
 * [Jason Hostetter](https://www.linkedin.com/in/jasonhostetter/) - Web developer, Diagnostic Radiologist
+* [Tom Schwarz](https://www.linkedin.com/in/tom-schwarz/) - 3D Visualisation Software Engineer - Axial3D
