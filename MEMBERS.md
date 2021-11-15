@@ -12,3 +12,4 @@ Feel free to add yourself via a pull request!
 * [Jason Hostetter](https://www.linkedin.com/in/jasonhostetter/) - Web developer, Diagnostic Radiologist
 * [Tom Schwarz](https://www.linkedin.com/in/tom-schwarz/) - 3D Visualisation Software Engineer - Axial3D
 * [Pantelis Georgiadis](https://www.linkedin.com/in/pantelisgeorgiadis/) - DICOM, Image Compression, Medical Imaging Software
+* [Jean-Francois Pambrun](https://www.linkedin.com/in/jpambrun/) - Ph.D. in medial image compression and streaming, postdoc in ML-based registration, now works on PACS systems.
