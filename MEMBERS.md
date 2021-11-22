@@ -14,3 +14,4 @@ Feel free to add yourself via a pull request!
 * [Pantelis Georgiadis](https://www.linkedin.com/in/pantelisgeorgiadis/) - DICOM, Image Compression, Medical Imaging Software
 * [Jean-Francois Pambrun](https://www.linkedin.com/in/jpambrun/) - Ph.D. in medial image compression and streaming, postdoc in ML-based registration, now works on PACS systems.
 * [Geoffrey Hird](https://www.linkedin.com/in/geoffreyhird/) - Computer Security, Cryptography, Mathematical Logic (PhD), 3D Medical Imaging.
+* [Adam Harpur](https://www.linkedin.com/in/adam-harpur/) - Software Engineer - [Axial3D](https://axial3d.com/)
