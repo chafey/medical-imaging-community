@@ -16,3 +16,4 @@ Feel free to add yourself via a pull request!
 * [Geoffrey Hird](https://www.linkedin.com/in/geoffreyhird/) - Computer Security, Cryptography, Mathematical Logic (PhD), 3D Medical Imaging.
 * [Adam Harpur](https://www.linkedin.com/in/adam-harpur/) - Software Engineer - [Axial3D](https://axial3d.com/)
 * [Sandor Konya MD](https://www.linkedin.com/in/dr-k%C3%B3nya-s%C3%A1ndor/) - Interventional Neuroradiologist, Medical Economist, ML researcher [Zentralklinik Bad Berka](http://zentralklinik.de)
+* [Seth Berkowitz](https://www.linkedin.com/in/seth-berkowitz-md/) - Interventional Radiologist, clinical informaticist, web and mobile dev, multimedia reporting evangelist
