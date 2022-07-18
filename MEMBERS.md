@@ -18,3 +18,4 @@ Feel free to add yourself via a pull request!
 * [Sandor Konya MD](https://www.linkedin.com/in/dr-k%C3%B3nya-s%C3%A1ndor/) - Interventional Neuroradiologist, Medical Economist, ML researcher [Zentralklinik Bad Berka](http://zentralklinik.de)
 * [Seth Berkowitz](https://www.linkedin.com/in/seth-berkowitz-md/) - Interventional Radiologist, clinical informaticist, web and mobile dev, multimedia reporting evangelist
 * [Frank Kwizera](https://www.linkedin.com/in/frank-kwizera/) - Software Engineer - [Insightiv](https://insightiv.ai/)
+* [Jason Klotzer](https://www.linkedin.com/in/jasonklotzer/) - Medical Imaging Solutions, Google Cloud - hands-on software architect; helped build a few commercial diagnostic viewers and PACS/VNA systems. 
