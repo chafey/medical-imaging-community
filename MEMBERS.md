@@ -19,3 +19,4 @@ Feel free to add yourself via a pull request!
 * [Seth Berkowitz](https://www.linkedin.com/in/seth-berkowitz-md/) - Interventional Radiologist, clinical informaticist, web and mobile dev, multimedia reporting evangelist
 * [Frank Kwizera](https://www.linkedin.com/in/frank-kwizera/) - Software Engineer - [Insightiv](https://insightiv.ai/)
 * [Jason Klotzer](https://www.linkedin.com/in/jasonklotzer/) - Medical Imaging Solutions, Google Cloud - hands-on software architect; helped build a few commercial diagnostic viewers and PACS/VNA systems. 
+* [Yiannis Theocharakis](https://www.linkedin.com/in/theocharakis/) - Biomedical and Software Engineer - Medical Imaging, DICOM, Radiology solutions, Worked on Radiology QA and TPS Projects,  Software Design
