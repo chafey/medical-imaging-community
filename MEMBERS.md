@@ -21,3 +21,4 @@ Feel free to add yourself via a pull request!
 * [Jason Klotzer](https://www.linkedin.com/in/jasonklotzer/) - Medical Imaging Solutions, Google Cloud - hands-on software architect; helped build a few commercial diagnostic viewers and PACS/VNA systems. 
 * [Kevin Archie](https://www.linkedin.com/in/kaarchie) - Software developer and DICOM nerd. Ex-WUSTL (XNAT, Human Connectome Project), Ex-Ambra, soon to be Flywheel.io
 * [Yiannis Theocharakis](https://www.linkedin.com/in/theocharakis/) - Biomedical and Software Engineer - Medical Imaging, DICOM, Radiology solutions, Worked on Radiology QA and TPS Projects,  Software Design
+* [Colby Dillion](https://www.linkedin.com/in/cdillion/) - Software engineer and creator of [fo-dicom](http://github.com/fo-dicom/fo-dicom) and [mDCM](https://github.com/fo-dicom/mdcm) DICOM libraries for .NET
