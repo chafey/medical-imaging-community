@@ -22,3 +22,4 @@ Feel free to add yourself via a pull request!
 * [Kevin Archie](https://www.linkedin.com/in/kaarchie) - Software developer and DICOM nerd. Ex-WUSTL (XNAT, Human Connectome Project), Ex-Ambra, soon to be Flywheel.io
 * [Yiannis Theocharakis](https://www.linkedin.com/in/theocharakis/) - Biomedical and Software Engineer - Medical Imaging, DICOM, Radiology solutions, Worked on Radiology QA and TPS Projects,  Software Design
 * [Colby Dillion](https://www.linkedin.com/in/cdillion/) - Software engineer and creator of [fo-dicom](http://github.com/fo-dicom/fo-dicom) and [mDCM](https://github.com/fo-dicom/mdcm) DICOM libraries for .NET
+* [Vitalii Lakusta](https://www.linkedin.com/in/vitalii-lakusta-0b2094a5) - CTO and co-founder at [Better Medicine](https://www.bettermedicine.ai/), where we help radiologists do cancer diagnostics faster and more accurately with our AI analyzing CT images.
