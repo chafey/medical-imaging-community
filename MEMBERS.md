@@ -24,3 +24,4 @@ Feel free to add yourself via a pull request!
 * [Colby Dillion](https://www.linkedin.com/in/cdillion/) - Software engineer and creator of [fo-dicom](http://github.com/fo-dicom/fo-dicom) and [mDCM](https://github.com/fo-dicom/mdcm) DICOM libraries for .NET
 * [Vitalii Lakusta](https://www.linkedin.com/in/vitalii-lakusta-0b2094a5) - CTO and co-founder at [Better Medicine](https://www.bettermedicine.ai/), where we help radiologists do cancer diagnostics faster and more accurately with our AI analyzing CT images.
 * [Walco van Loon](https://www.linkedin.com/in/walcovanloon/) - Hands-on architect and consultant with long-time implementation experience in DICOM(web), FHIR, IHE XDS(-I) and many other IHE profiles
+* [Parnesh Raniga](https://au.linkedin.com/in/parnesh-raniga-633ab310) - Research scientist / Programmer interested in DICOM(web), FHIR and AI.
