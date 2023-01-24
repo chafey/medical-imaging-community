@@ -25,3 +25,4 @@ Feel free to add yourself via a pull request!
 * [Vitalii Lakusta](https://www.linkedin.com/in/vitalii-lakusta-0b2094a5) - CTO and co-founder at [Better Medicine](https://www.bettermedicine.ai/), where we help radiologists do cancer diagnostics faster and more accurately with our AI analyzing CT images.
 * [Walco van Loon](https://www.linkedin.com/in/walcovanloon/) - Hands-on architect and consultant with long-time implementation experience in DICOM(web), FHIR, IHE XDS(-I) and many other IHE profiles
 * [Parnesh Raniga](https://au.linkedin.com/in/parnesh-raniga-633ab310) - Research scientist / Programmer interested in DICOM(web), FHIR and AI.
+* [Stephen D. Scotti MD](https://www.linkedin.com/in/stephen-d-scotti) - Retired Radiologist now living and working (IT) in Wien, Österreich.  Thoraco-Abdominal and Nuclear Medicine Fellowships in USA.
