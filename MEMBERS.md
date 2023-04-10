@@ -26,3 +26,4 @@ Feel free to add yourself via a pull request!
 * [Walco van Loon](https://www.linkedin.com/in/walcovanloon/) - Hands-on architect and consultant with long-time implementation experience in DICOM(web), FHIR, IHE XDS(-I) and many other IHE profiles
 * [Parnesh Raniga](https://au.linkedin.com/in/parnesh-raniga-633ab310) - Research scientist / Programmer interested in DICOM(web), FHIR and AI.
 * [Stephen D. Scotti MD](https://www.linkedin.com/in/stephen-d-scotti) - Retired Radiologist now living and working (IT) in Wien, Österreich.  Thoraco-Abdominal and Nuclear Medicine Fellowships in USA.
+* [Alex McFerran](https://www.linkedin.com/in/alex-mcferran-0a61371/) - Proud DICOM nerd living in Cambridge, MA.  Helped build Ambra Health for 10 years; now Director of Partnerships at Centaur Labs (https://www.centaurlabs.com/) where we are a full service labeling solution for healthcare companies building AI/ML solutions.
