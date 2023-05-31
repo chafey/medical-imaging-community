@@ -28,3 +28,4 @@ Feel free to add yourself via a pull request!
 * [Taro Langner](https://www.linkedin.com/in/taro-langner-b982a2205/) - Deep Learning researcher working on medical image analysis for clinical trials
 * [Stephen D. Scotti MD](https://www.linkedin.com/in/stephen-d-scotti) - Retired Radiologist now living and working (IT) in Wien, Österreich.  Thoraco-Abdominal and Nuclear Medicine Fellowships in USA.
 * [Alex McFerran](https://www.linkedin.com/in/alex-mcferran-0a61371/) - Proud DICOM nerd living in Cambridge, MA.  Helped build Ambra Health for 10 years; now Director of Partnerships at Centaur Labs (https://www.centaurlabs.com/) where we are a full service labeling solution for healthcare companies building AI/ML solutions.
+* [Kent Hutson, MD, CPE](https://www.linkedin.com/in/kenthutsonmd/) - Neuroradiologist with computer science degree. 
