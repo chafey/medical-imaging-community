@@ -1,5 +1,7 @@
 # Meeting Notes
 ## 2023
+attempt to follow this procedure (https://stackoverflow.com/a/42600376/259988) to get notifications on updates
+
 * [2023-10-16](notes/2023-10-16.md)
 * [2023-10-09](notes/2023-10-09.md)
 * [2023-10-02](notes/2023-10-02.md)
