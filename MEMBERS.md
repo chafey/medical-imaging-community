@@ -19,7 +19,7 @@ Feel free to add yourself via a pull request!
 * [Seth Berkowitz](https://www.linkedin.com/in/seth-berkowitz-md/) - Interventional Radiologist, clinical informaticist, web and mobile dev, multimedia reporting evangelist
 * [Frank Kwizera](https://www.linkedin.com/in/frank-kwizera/) - Software Engineer - [Insightiv](https://insightiv.ai/)
 * [Jason Klotzer](https://www.linkedin.com/in/jasonklotzer/) - Medical Imaging Solutions, Google Cloud - hands-on software architect; helped build a few commercial diagnostic viewers and PACS/VNA systems. 
-* [Kevin Archie](https://www.linkedin.com/in/kaarchie) - Software developer and DICOM nerd. Ex-WUSTL (XNAT, Human Connectome Project), Ex-Ambra, soon to be Flywheel.io
+* [Kevin Archie](https://www.linkedin.com/in/kaarchie) - Software developer and DICOM nerd. Software Engineer at Rad AI; ex-WUSTL (XNAT, Human Connectome Project), ex-Ambra, ex-Flywheel
 * [Yiannis Theocharakis](https://www.linkedin.com/in/theocharakis/) - Biomedical and Software Engineer - Medical Imaging, DICOM, Radiology solutions, Worked on Radiology QA and TPS Projects,  Software Design
 * [Colby Dillion](https://www.linkedin.com/in/cdillion/) - Software engineer and creator of [fo-dicom](http://github.com/fo-dicom/fo-dicom) and [mDCM](https://github.com/fo-dicom/mdcm) DICOM libraries for .NET
 * [Vitalii Lakusta](https://www.linkedin.com/in/vitalii-lakusta-0b2094a5) - CTO and co-founder at [Better Medicine](https://www.bettermedicine.ai/), where we help radiologists do cancer diagnostics faster and more accurately with our AI analyzing CT images.
