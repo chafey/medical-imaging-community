@@ -10,7 +10,7 @@ Home page for the weekly medical imaging community meetings
 
 TBD, previously we met every monday at 10:00AM Central (GTM-6)
 
-~~Format: Unstructured open discussion - attendees are free to ask questions and discuss topics related to medical imaging~~
+Format: Unstructured open discussion - attendees are free to ask questions and discuss topics related to medical imaging
 
 ## More Info
 
