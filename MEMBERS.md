@@ -33,3 +33,4 @@ Feel free to add yourself via a pull request!
 * [Robert Parks](https://www.linkedin.com/in/raparks/) - Director of IT at Advanced Radiology Consultants in Shelton, Connecticut. Highly enthusiastic about AI-assisted software development. Needs to update his LinkedIn profile.
 * [Kent Hutson, MD, CPE](https://www.linkedin.com/in/kenthutsonmd/) - Neuroradiologist with computer science degree. 
 * [Shah E Rome Wali](https://www.linkedin.com/in/shah-e-rome-wali/) - Lead Software Engineer specializing in medical imaging, DICOM/DICOMweb, PACS, and cloud healthcare systems. Experienced in scalable radiology backends, AI imaging workflows, Orthanc, and HIPAA-compliant APIs.
+* [Giacomo Petronio](https://www.linkedin.com/in/giacomopetronio/) - Lead Software Engineer specialized in DICOM solutions (Web DICOM Viewer, cloud-native PACS, DICOM Gateway) at O3 Enterprise (https://zeeromed.com)
