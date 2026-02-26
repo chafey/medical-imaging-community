@@ -36,3 +36,4 @@ Feel free to add yourself via a pull request!
 * [Christopher Skene](https://www.linkedin.com/in/xtfer/) - CTO and Co-Founder at [Aurabox](https://aurabox.cloud) and [Runbeam](https://runbeam.io)
 * [Giacomo Petronio](https://www.linkedin.com/in/giacomopetronio/) - Lead Software Engineer specialized in DICOM solutions (Web DICOM Viewer, cloud-native PACS, DICOM Gateway) at O3 Enterprise (https://zeeromed.com)
 * [Brad Genereaux](https://www.linkedin.com/in/integratorbrad/) - DICOM, HL7/FHIR, IHE, integrations, APIs, AI
+* [Andrey Fedorov](https://www.linkedin.com/in/andreyfedorov/) - DICOM with the emphasis on image-derived data, open source, open data, technical lead at [Imaging Data Commons](https://portal.imaging.datacommons.cancer.gov/)
